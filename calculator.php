@@ -16,15 +16,7 @@ if(isset($save))
 		$res=$fn*$sn;
 		break;
 
-		case '/':
-		if($sn == 0){
-			$res = -1;
-			break;
-		}
-		else{
-			$res=$fn/$sn;
-			break;
-		}
+		
 		
 		
 	}

@@ -1,0 +1,11 @@
+/home/lazycoder/Desktop/Programming_Tools/Task4/bin/Debug/netcoreapp3.0/Task4
+/home/lazycoder/Desktop/Programming_Tools/Task4/bin/Debug/netcoreapp3.0/Task4.deps.json
+/home/lazycoder/Desktop/Programming_Tools/Task4/bin/Debug/netcoreapp3.0/Task4.runtimeconfig.json
+/home/lazycoder/Desktop/Programming_Tools/Task4/bin/Debug/netcoreapp3.0/Task4.runtimeconfig.dev.json
+/home/lazycoder/Desktop/Programming_Tools/Task4/bin/Debug/netcoreapp3.0/Task4.dll
+/home/lazycoder/Desktop/Programming_Tools/Task4/bin/Debug/netcoreapp3.0/Task4.pdb
+/home/lazycoder/Desktop/Programming_Tools/Task4/obj/Debug/netcoreapp3.0/Task4.csprojAssemblyReference.cache
+/home/lazycoder/Desktop/Programming_Tools/Task4/obj/Debug/netcoreapp3.0/Task4.AssemblyInfoInputs.cache
+/home/lazycoder/Desktop/Programming_Tools/Task4/obj/Debug/netcoreapp3.0/Task4.AssemblyInfo.cs
+/home/lazycoder/Desktop/Programming_Tools/Task4/obj/Debug/netcoreapp3.0/Task4.dll
+/home/lazycoder/Desktop/Programming_Tools/Task4/obj/Debug/netcoreapp3.0/Task4.pdb
